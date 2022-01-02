@@ -34,9 +34,4 @@ This script is for educational purposes. I am in no way responsible for any inco
 [![Astraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstraaDev)](https://github.com/AstraaDev/github-readme-stats)
 
 # Donate
-Support this project and [others](https://github.com/TheSkidSlayer) by Astraa via [PayPal](https://www.paypal.com/).
-<br>
-<br>
-<a href="https://www.paypal.me/fmrhrt/">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
+Support this project and [others](https://github.com/TheSkidSlayer)
