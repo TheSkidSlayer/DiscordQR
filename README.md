@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/AstraaDev"><img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width="1000"></a>
+    <a href="https://github.com/TheSkidSlayer"><img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width="1000"></a>
   </p>
 </div>
 
